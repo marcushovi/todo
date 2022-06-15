@@ -1,2 +1,3 @@
-# todo
-Todo list in php + MySQL. (20219/2020)
+# todo app
+
+Todo list app in php + MySQL. (20219/2020)
