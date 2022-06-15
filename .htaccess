@@ -1,0 +1,9 @@
+ErrorDocument 404 https://marek.project77.tk/404.php
+ErrorDocument 403 https://marek.project77.tk/403.php
+ErrorDocument 500 https://marek.project77.tk/500.php
+
+
+RewriteEngine On
+
+# users don't get access to folders without index file
+Options -Indexes

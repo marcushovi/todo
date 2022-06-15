@@ -1,0 +1,14 @@
+<svg width="150" height="150" viewBox="0 0 150 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M19 25C19 11.1929 30.1929 0 44 0H106.5C120.307 0 131.5 11.1929 131.5 25V125C131.5 138.807 120.307 150 106.5 150H44C30.1929 150 19 138.807 19 125V25Z"
+          fill="#0040FF" fill-opacity="0.5"/>
+    <path d="M39.5471 1.5H111.453C110.679 13.7798 100.475 23.5 88 23.5H63C50.5252 23.5 40.3206 13.7798 39.5471 1.5Z"
+          fill="#0040FF" fill-opacity="0.5"/>
+    <path d="M39.5471 1.5H111.453C110.679 13.7798 100.475 23.5 88 23.5H63C50.5252 23.5 40.3206 13.7798 39.5471 1.5Z"
+          stroke="white" stroke-width="3"/>
+    <rect x="36" y="38" width="78" height="10" rx="5" fill="white" fill-opacity="0.5" stroke="white" stroke-width="2"/>
+    <rect x="36" y="60" width="78" height="10" rx="5" fill="white" fill-opacity="0.5" stroke="white" stroke-width="2"/>
+    <rect x="36" y="82" width="78" height="10" rx="5" fill="white" fill-opacity="0.5" stroke="white" stroke-width="2"/>
+    <rect x="36" y="104" width="78" height="10" rx="5" fill="white" fill-opacity="0.5" stroke="white" stroke-width="2"/>
+    <path d="M44 3H106.5V-3H44V3ZM128.5 25V125H134.5V25H128.5ZM106.5 147H44V153H106.5V147ZM22 125V25H16V125H22ZM44 147C31.8497 147 22 137.15 22 125H16C16 140.464 28.536 153 44 153V147ZM128.5 125C128.5 137.15 118.65 147 106.5 147V153C121.964 153 134.5 140.464 134.5 125H128.5ZM106.5 3C118.65 3 128.5 12.8497 128.5 25H134.5C134.5 9.53603 121.964 -3 106.5 -3V3ZM44 -3C28.536 -3 16 9.53603 16 25H22C22 12.8497 31.8497 3 44 3V-3Z"
+          fill="white"/>
+</svg>

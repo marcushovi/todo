@@ -1,0 +1,29 @@
+[
+  {
+    "databaseConnection": {
+      "serverName": "localhost",
+      "userName": "root",
+      "password": "",
+      "databaseName": "todo"
+    },
+    "UserDataSettings": {
+      "maxLengthOfName": 200,
+      "minLengthOfName": 3,
+      "minLengthOfPass": 8,
+      "maxLengthOfEmail": 400
+    },
+    "TaskDataSettings": {
+      "maxLengthOfTitle": 50,
+      "maxLengthOfDescription": 500,
+      "maxLengthOfPriority": 24,
+      "maxSizeOfFileKB": 100,
+      "maxLengthOfFileName": 50,
+      "allowedFileExtensions": [
+        "jpg",
+        "jpeg",
+        "png",
+        "txt"
+      ]
+    }
+  }
+]
